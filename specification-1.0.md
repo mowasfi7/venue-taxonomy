@@ -7,11 +7,19 @@ The intention of this document is to standardize the list of venue types that re
 
 ## Contributors
 
+### About Adomni
+
+Adomni is a programmatic advertising platform that easily connects brands and agencies with on-the-go consumers via real-world digital screens. Advertisers can target audiences via mobile location data and launch campaigns in minutes by using one of the fastest growing DOOH networks in the world. Currently, the Adomni platform offers access to over 60 billion monthly impressions on hundreds of thousands of digital screens across the U.S., Canada, Europe and Australia.
+
 ### About Broadsign
 
-Broadsign is making it easier than ever for media owners, agencies and brands to harness the power of out-of-home and connect with audiences across the globe. Powering over 425,000 signs in airports, shopping malls, health clinics, transit systems and more, Broadsign is at the heart of people’s lives. 
+Broadsign is making it easier than ever for media owners, agencies and brands to harness the power of out-of-home and connect with audiences across the globe. Powering over 425,000 signs in airports, shopping malls, health clinics, transit systems and more, Broadsign is at the heart of people’s lives.
 
-The Broadsign platform helps media owners more efficiently manage their business operations while enabling brands and agencies to easily book OOH campaigns. The platform includes tools for content distribution, playback and proof of performance; sales inventory availability and proposal generation; automated programmatic DOOH transactions; and OOH business operations. 
+The Broadsign platform helps media owners more efficiently manage their business operations while enabling brands and agencies to easily book OOH campaigns. The platform includes tools for content distribution, playback and proof of performance; sales inventory availability and proposal generation; automated programmatic DOOH transactions; and OOH business operations.
+
+### About Place Exchange
+
+Place Exchange is the leading SSP for programmatic out-of-home and place-based media. Integrated with omnichannel DSPs, Place Exchange’s patented technology uniquely offers agencies and advertisers the opportunity to fully unify buying and measurement of OOH media with other digital channels, leveraging the same workflow, creatives, reporting, and attribution as for online and mobile advertising. Place Exchange’s unmatched supply ecosystem adheres to its PX Clear program that delivers buyers quality, consistency, transparency, and compliance. For OOH media partners, Place Exchange offers the opportunity to access programmatic ad spend with full transparency and control.
 
 ### About The Trade Desk
 
@@ -19,17 +27,19 @@ The Trade Desk powers the most sophisticated buyers in advertising technology. F
 
 The Trade Desk empowers buyers at the campaign level with the most expressive bid capabilities in market, full-funnel attribution, and detailed reporting that gives you more insights into your audience, from initial impression to conversion. By maintaining a pure buy-side focus, The Trade Desk delivers on branding and performance for clients worldwide.
 
+### About Verizon Media
+
+Verizon Media, a division of Verizon Communications, Inc., houses a trusted media ecosystem of premium brands like Yahoo, TechCrunch and HuffPost to help people stay informed and entertained, communicate and transact, while creating new ways for advertisers and media partners to connect. From XR experiences to advertising and content technology, Verizon Media is an incubator of innovation and is revolutionizing the next generation of content creation in a 5G world.
+
+### About VIOOH
+
+VIOOH is a leading global digital out of home marketplace. Launched in 2018 and with headquarters in London, VIOOH’s platform connects buyers and sellers in a premium marketplace, making OOH easily accessible. 
+
+Led by a team of digital OOH tech experts, VIOOH is pioneering the transformation of the OOH sector, championing its role in enhancing omni-channel digital campaigns through the use of programmatic. VIOOH is live in 17 markets globally and trading programmatically in eleven markets, with more to come.
+
 ### About Vistar Media
 
-Vistar Media is the world’s leading end-to-end programmatic ecosystem for digital out-of-home (DOOH). Vistar Media’s demand-side platform (DSP) and supply-side platform (SSP) empower buyers and sellers to easily transact on DOOH inventory while applying intelligent data insights that improve media performance. Vistar’s SaaS solutions (unified ad server and Cortex for device and content management) deliver enterprise-grade solutions for monetizing and operating digital signage networks at any scale. Through its global reach, direct platform integrations, data partnerships, and complete technology stack, Vistar Media continues to power innovation and growth across the digital signage industry. Founded in 2012, Vistar Media is headquartered in New York City and has offices across the United States, Canada, the United Kingdom and Australia.
-
-### Individuals
-
-* Alex Cohen, The Trade Desk
-* Christian Collins, Vistar Media
-* Aura Koljonen, Broadsign
-* Eric Lamb, Vistar Media
-* Matthew Mercuri, Broadsign
+Vistar Media is the world’s leading end-to-end programmatic ecosystem for digital out-of-home (DOOH). Vistar Media’s demand-side platform (DSP) and supply-side platform (SSP) empower buyers and sellers to easily transact on DOOH inventory while applying intelligent data insights that improve media performance. Vistar’s SaaS solutions (unified ad server and Cortex for device and content management) deliver enterprise-grade solutions for monetizing and operating digital signage networks at any scale. Through its global reach, direct platform integrations, data partnerships, and complete technology stack, Vistar Media continues to power innovation and growth across the digital signage industry. Founded in 2012, Vistar Media is headquartered in New York City and has offices across the United States, Canada, the United Kingdom and Australia.	
 
 ### Versioning
 
